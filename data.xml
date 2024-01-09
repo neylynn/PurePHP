@@ -1,0 +1,102 @@
+<data>
+    <record>
+        <ID>1</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Empire Burlesque</TITLE>
+        <ARTIST>Bob Dylan</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Columbia</COMPANY>
+        <PRICE>10.90</PRICE>
+        <YEAR>1985</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Hide your heart</TITLE>
+        <ARTIST>Bonnie Tyler</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1988</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Sylvias Mother</TITLE>
+        <ARTIST>Dr.Hook</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS</COMPANY>
+        <PRICE>8.10</PRICE>
+        <YEAR>1973</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Romanza</TITLE>
+        <ARTIST>Andrea Bocelli</ARTIST>
+        <COUNTRY>EU</COUNTRY>
+        <COMPANY>Polydor</COMPANY>
+        <PRICE>10.80</PRICE>
+        <YEAR>1996</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>When a man loves a woman</TITLE>
+        <ARTIST>Bonnie Tyler</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1988</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Hide your heart</TITLE>
+        <ARTIST>Percy Sledge</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Atlantic</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1987</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Black angel</TITLE>
+        <ARTIST>Savage Rose</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1988</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Tupelo Honey</TITLE>
+        <ARTIST>Soulsville</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1988</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Stop</TITLE>
+        <ARTIST>Sam Brown</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1988</YEAR>
+    </record>
+    <record>
+        <ID>2</ID>
+        <TYPE>VCD</TYPE>
+        <TITLE>Pavarotti Gala Concert</TITLE>
+        <ARTIST>Luciano Pavarotti</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>CBS Records</COMPANY>
+        <PRICE>9.90</PRICE>
+        <YEAR>1988</YEAR>
+    </record>
+</data>
